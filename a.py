@@ -1,3 +1,2 @@
 git status
-
-a = 100
+a = 10
